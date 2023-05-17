@@ -1,0 +1,33 @@
+---
+title: UBVU on Github
+---
+
+:::{#about}
+
+This organization hosts repositories linked to the University Library at the Vrije Universiteit Amsterdam.
+
+:::
+
+:::{#guidelines}
+
+## Guidelines for using the organization
+
+Being a member:
+
+- you can create repositories for which you have admin rights
+- e.g., you can invite collaborators and **assign your repo to a team**
+
+Teams:
+
+- should be used to indicate which part of the organization the repo belongs to, e.g. *Research Intelligence*
+- all repositories you create are still linked to UBVU
+- teams are a way to categorize your projects
+
+
+:::
+
+:::{#resources}
+
+## Resources for learning git concepts
+
+:::

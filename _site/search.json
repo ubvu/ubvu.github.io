@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "UBVU on Github",
+    "section": "",
+    "text": "This organization hosts repositories linked to the University Library at the Vrije Universiteit Amsterdam."
+  },
+  {
+    "objectID": "index.html#guidelines-for-using-the-organization",
+    "href": "index.html#guidelines-for-using-the-organization",
+    "title": "UBVU on Github",
+    "section": "Guidelines for using the organization",
+    "text": "Guidelines for using the organization\nBeing a member:\n\nyou can create repositories for which you have admin rights\ne.g., you can invite collaborators and assign your repo to a team\n\nTeams:\n\nshould be used to indicate which part of the organization the repo belongs to, e.g. Research Intelligence\nall repositories you create are still linked to UBVU\nteams are a way to categorize your projects"
+  },
+  {
+    "objectID": "index.html#resources-for-learning-git-concepts",
+    "href": "index.html#resources-for-learning-git-concepts",
+    "title": "UBVU on Github",
+    "section": "Resources for learning git concepts",
+    "text": "Resources for learning git concepts"
+  }
+]
