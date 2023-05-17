@@ -4,7 +4,7 @@ title: UBVU on Github
 
 :::{#about}
 
-This organization hosts repositories linked to the University Library at the Vrije Universiteit Amsterdam.
+This organization hosts repositories linked to the University Library at the Vrije Universiteit Amsterdam
 
 :::
 
