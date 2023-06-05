@@ -4,20 +4,27 @@
     "href": "index.html",
     "title": "UBVU on Github",
     "section": "",
-    "text": "This organization hosts repositories linked to the University Library at the Vrije Universiteit Amsterdam."
+    "text": "This organization hosts repositories linked to the University Library at the Vrije Universiteit Amsterdam.\nIf you want to be added as a member, contact one of the administrators"
   },
   {
-    "objectID": "index.html#guidelines-for-using-the-organization",
-    "href": "index.html#guidelines-for-using-the-organization",
+    "objectID": "index.html#when-to-use-this-organization",
+    "href": "index.html#when-to-use-this-organization",
     "title": "UBVU on Github",
-    "section": "Guidelines for using the organization",
-    "text": "Guidelines for using the organization\nBeing a member:\n\nyou can create repositories for which you have admin rights\ne.g., you can invite collaborators and assign your repo to a team\n\nTeams:\n\nshould be used to indicate which part of the organization the repo belongs to, e.g. Research Intelligence\nall repositories you create are still linked to UBVU\nteams are a way to categorize your projects"
+    "section": "When to use this organization",
+    "text": "When to use this organization\n\nWhat is it for?\n\nall collaborative projects related to the library\neven when you’re not collaborating, you should still use version control; however, you should consider whether the project should be part of the organization or not\n\n\n\nWhat is it not for?\n\npersonal documents and storage without version control"
+  },
+  {
+    "objectID": "index.html#how-to-use-this-organization",
+    "href": "index.html#how-to-use-this-organization",
+    "title": "UBVU on Github",
+    "section": "How to use this organization",
+    "text": "How to use this organization\n\nWhat is a repository?\n\nit typically stores and tracks files related to a project (code, documents)\ndocuments should be text files; binaries like excel sheets can be stored, but they are not meant for version control\ndata: you should carefully consider whether it makes sense to add data to your repository; problematic are large datasets and privacy-sensitive data\n\n\n\nWhat you can do as a member:\n\nyou can create repositories for which you have admin rights\n\nuse meaningful names so that your repository can be found easily\nadd a README.md file that describes your project\n\nyou can invite collaborators and assign your repo to a team\n\n\n\nUsing teams:\n\nif you want to create a team, contact one of the administrators\nteams should be used to indicate which part of the organization the repo belongs to, e.g. Research Intelligence\nall repositories you create are still linked to UBVU; teams are a way to categorize your projects"
   },
   {
     "objectID": "index.html#resources-for-learning-git-concepts",
     "href": "index.html#resources-for-learning-git-concepts",
     "title": "UBVU on Github",
     "section": "Resources for learning git concepts",
-    "text": "Resources for learning git concepts"
+    "text": "Resources for learning git concepts\n\nThe Carpentries\nCoderefinery\nThe Turing Way"
   }
 ]

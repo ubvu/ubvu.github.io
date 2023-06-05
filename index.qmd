@@ -4,24 +4,44 @@ title: UBVU on Github
 
 :::{#about}
 
-This organization hosts repositories linked to the University Library at the Vrije Universiteit Amsterdam
+This organization hosts repositories linked to the University Library at the Vrije Universiteit Amsterdam.
+
+If you want to be added as a member, contact one of the [administrators](https://github.com/orgs/ubvu/people)
 
 :::
 
-:::{#guidelines}
+:::{#conduct}
 
-## Guidelines for using the organization
+## When to use this organization
 
-Being a member:
+#### What is it for?
+- all collaborative projects related to the library
+- even when you're not collaborating, you should still use version control; however, you should consider whether the project should be part of the organization or not
 
+#### What is it *not* for?
+- personal documents and storage without version control
+
+:::
+
+:::{#howto}
+
+## How to use this organization
+
+#### What is a repository?
+- it typically stores and tracks files related to a project (code, documents)
+- documents should be text files; binaries like excel sheets can be stored, but they are not meant for version control 
+- data: you should carefully consider whether it makes sense to add data to your repository; problematic are large datasets and privacy-sensitive data
+
+#### What you can do as a member:
 - you can create repositories for which you have admin rights
-- e.g., you can invite collaborators and **assign your repo to a team**
+    - use meaningful names so that your repository can be found easily
+    - add a README.md file that describes your project
+- you can invite collaborators and **assign your repo to a team**
 
-Teams:
-
-- should be used to indicate which part of the organization the repo belongs to, e.g. *Research Intelligence*
-- all repositories you create are still linked to UBVU
-- teams are a way to categorize your projects
+#### Using teams:
+- if you want to create a team, contact one of the [administrators](https://github.com/orgs/ubvu/people)
+- teams should be used to indicate which part of the organization the repo belongs to, e.g. *Research Intelligence*
+- all repositories you create are still linked to UBVU; teams are a way to categorize your projects
 
 
 :::
@@ -29,5 +49,9 @@ Teams:
 :::{#resources}
 
 ## Resources for learning git concepts
+
+- [The Carpentries](https://swcarpentry.github.io/git-novice/)
+- [Coderefinery](https://coderefinery.github.io/git-intro/#)
+- [The Turing Way](https://the-turing-way.netlify.app/reproducible-research/vcs.html)
 
 :::
